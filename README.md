@@ -15,7 +15,7 @@
 <br/>
 
 
-- 🛠️ I’m currently working on Sudo Discord Bot... Coming soon :)
+- 🛠️ I’m currently working on idk... Coming soon :)
 
 <br/>
 
