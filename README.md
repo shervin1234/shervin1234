@@ -12,16 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/PNourian/PNourian/main/public/readme/svg/nodedotjs.svg" alt="nodejs"/></code>
 </div>
 
-<br/>
 
-
-- 🛠️ I’m currently working on idk... Coming soon :)
-
-<br/>
-
-- 🌱 I’m currently learning **Unreal Engine**
-
-<br/>
 
 - ✅ I’m also Software Developer, Minecraft and Discord developer, IT Manager
 
