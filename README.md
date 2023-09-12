@@ -18,7 +18,7 @@
 
 <br/>
 
-- 🤝 Part of [Hera](https://discord.gg/kYxt96amk9) team
+- 🤝 Part of [Rthen](https://discord.gg/kYxt96amk9) Studio
 
 
 ---
