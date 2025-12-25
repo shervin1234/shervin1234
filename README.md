@@ -1,87 +1,71 @@
-<p align="left">Hello World!!</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=shining&color=auto&height=200&section=header&text=Hello%20World%20!%20🚀&fontSize=70&animation=fadeIn" width="100%" />
+  
+  <br/>
 
-###
+  <h1>Hi, I'm Shervin 👋</h1>
+  <p><b>Full-stack Developer | Rust Enthusiast | Open Source Contributor</b></p>
 
-<p align="left">👨‍💻 Programming Languages</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="23" alt="rust logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="23" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="23" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="23" alt="react logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="23" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="23" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="23" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="23" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/📍-Tehran,%20Iran-red" />
 </div>
 
-###
+---
 
-<p align="left">🧰 Frameworks and Libraries</p>
+### 💫 About Me
 
-###
+- 🔭 I’m currently working on **High-performance Backend Systems**.
+- 🦀 I'm deeply passionate about **Rust** and its ecosystem.
+- ⚡ I love building scalable, type-safe applications with **TypeScript** and **Next.js**.
+- 💬 Ask me about **Web Performance**, **React**, or why **Rust** is awesome!
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="23" alt="svelte logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="23" alt="nextjs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="23" alt="react logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="23" alt="electron logo"  />
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat-square) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&style=flat-square) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square) |
+| **Cloud/Tools** | ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) |
+
 </div>
 
-###
+---
 
-<p align="left">🗄️ Databases and Cloud Hosting</p>
+### 📊 GitHub Activity & Stats
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge" height="23" alt="cloudflare logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="23" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="23" alt="redis logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="23" alt="prisma logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="23" alt="apache logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shervin1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shervin1234&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shervin1234&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
-###
+---
 
-<div align="left">
+### 🐍 Contribution Map
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shervin1234/shervin1234/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 📫 Connect with me
+
+<div align="center">
   <a href="https://discord.gg/4dwaDFKkhh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-###
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/shervin1234/count.svg?"  />
+  <br/>
+  <img src="https://profile-counter.glitch.me/shervin1234/count.svg" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shervin1234&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shervin1234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="90" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=shervin1234&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
