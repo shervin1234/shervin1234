@@ -1,35 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00d4ff&height=200&section=header&text=SHERVIN%20ELITE&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=kila&color=auto&height=250&section=header&text=SHERVIN%20SYSTEMS&fontSize=80&animation=rect&fontAlignY=40" width="100%" />
 
-  <br/>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/DEVELOPER-FULLSTACK-blue?style=for-the-badge&logo=codeproject&logoColor=white" />
-    <img src="https://img.shields.io/badge/FOCUS-RUST%20%26%20WASM-black?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/STATUS-BUILDING-green?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Low-level+Optimization;Full-stack+Architecture;Rust+Core+Engineer;Cloud+Native+Solutions" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌌 The Multiverse of My Skills
-
+### 🌐 System Core Registry
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,react,nodejs,bun,prisma,mysql,redis,cloudflare,docker,linux,github,figma,tailwind,wasm" />
+  <img src="https://skillicons.dev/icons?i=rust,wasm,cpp,ts,nextjs,nodejs,bun,prisma,postgresql,redis,docker,kubernetes,aws,cloudflare,github,linux" />
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="50%" align="left">
-        <h3>🚀 Velocity Metrics</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=shervin1234&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" width="100%" />
+      <td width="55%" valign="top">
+        <h3 align="center">🛠 Infrastructure Dynamics</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=shervin1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" width="100%" />
       </td>
-      <td width="50%" align="left">
-        <h3>🛠 Top Architectures</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shervin1234&layout=compact&theme=radical&hide_border=false" width="100%" />
+      <td width="45%" valign="top">
+        <h3 align="center">🧬 Tech Genome</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shervin1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
       </td>
     </tr>
   </table>
@@ -37,48 +30,39 @@
 
 ---
 
-### 📈 Activity Heatmap & Streak
-
+### 📊 Activity Pulse & Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shervin1234&theme=radical&hide_border=false" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shervin1234&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
 </div>
 
 ---
 
-### 🌪 Personal Lab (Top Projects)
+### 🕹 Evolution Map (The Snake Game)
 <div align="center">
-  <a href="https://github.com/shervin1234/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shervin1234&repo=repo-name&theme=radical&show_owner=true" />
-  </a>
-  <a href="https://github.com/shervin1234/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shervin1234&repo=another-repo&theme=radical&show_owner=true" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shervin1234/shervin1234/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/shervin1234/shervin1234/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
-### 🕹 Contribution Journey (The Snake Game)
+### 📡 System Communications
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shervin1234/shervin1234/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
-</div>
-
----
-
-### 🌐 Digital Footprint
-<div align="center">
+  <br/>
   <a href="https://discord.gg/4dwaDFKkhh">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/DISCORD-COMMAND_CENTER-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-username">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shervin1234&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=shervin1234&color=00f2ff&style=flat-square&label=ACCESS_LOGS" />
 </div>
+
+<br/>
+<p align="right"><i>Terminating session... _</i></p>
