@@ -30,15 +30,16 @@
     <tr>
       <td width="55%" valign="top">
         <h3 align="center">🛠 System Metrics</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=shervin1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shervin1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" />
       </td>
       <td width="45%" valign="top">
         <h3 align="center">🧬 Tech Genome</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shervin1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shervin1234&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
