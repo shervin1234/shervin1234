@@ -1,69 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=150&section=header&text=SHERVIN%20DEVELOPER&fontSize=50&animation=twinkling&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00d4ff&height=200&section=header&text=SHERVIN%20ELITE&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full-stack+Engineer;Rust+Enthusiast;System+Architect;Open+Source+Contributor" alt="Typing SVG" />
-
   <p align="center">
-    <a href="https://discord.gg/4dwaDFKkhh">
-      <img src="https://img.shields.io/badge/CONNECT-ON%20DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/DEVELOPER-FULLSTACK-blue?style=for-the-badge&logo=codeproject&logoColor=white" />
+    <img src="https://img.shields.io/badge/FOCUS-RUST%20%26%20WASM-black?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATUS-BUILDING-green?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### ⚡ Technical Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <b>Core Languages</b><br />
-      <img src="https://skillicons.dev/icons?i=rust,ts,js,cpp" />
-    </td>
-    <td align="center" width="33%">
-      <b>Frontend Stack</b><br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind" />
-    </td>
-    <td align="center" width="33%">
-      <b>Backend & Infrastructure</b><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,cloudflare,docker" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 Git Insights & Performance
+### 🌌 The Multiverse of My Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shervin1234&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shervin1234&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&hide_border=true" width="45%" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,react,nodejs,bun,prisma,mysql,redis,cloudflare,docker,linux,github,figma,tailwind,wasm" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shervin1234&theme=transparent&stroke=00d4ff&fire=00d4ff&ring=00d4ff&currStreakLabel=00d4ff&hide_border=true" width="100%" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="left">
+        <h3>🚀 Velocity Metrics</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=shervin1234&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" width="100%" />
+      </td>
+      <td width="50%" align="left">
+        <h3>🛠 Top Architectures</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shervin1234&layout=compact&theme=radical&hide_border=false" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🌊 Contribution Flow
+### 📈 Activity Heatmap & Streak
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shervin1234/shervin1234/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shervin1234/shervin1234/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shervin1234/shervin1234/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shervin1234&theme=radical&hide_border=false" width="100%" />
 </div>
 
 ---
 
-### 🎯 Current Focus
-- 🔭 Building a high-performance backend using **Rust** and **Tokio**.
-- 🧪 Exploring **Edge Computing** with Cloudflare Workers.
-- 📚 Reading about **Distributed Systems**.
+### 🌪 Personal Lab (Top Projects)
+<div align="center">
+  <a href="https://github.com/shervin1234/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shervin1234&repo=repo-name&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/shervin1234/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shervin1234&repo=another-repo&theme=radical&show_owner=true" />
+  </a>
+</div>
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/shervin1234/count.svg" />
+---
+
+### 🕹 Contribution Journey (The Snake Game)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shervin1234/shervin1234/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+</div>
+
+---
+
+### 🌐 Digital Footprint
+<div align="center">
+  <a href="https://discord.gg/4dwaDFKkhh">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shervin1234&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
