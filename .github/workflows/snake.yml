@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # هر ۱۲ ساعت آپدیت می‌شود
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # آپدیت به نسخه ۴
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -23,7 +23,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to Output Branch
-        uses: crazy-max/githubaction-github-pages@v3.1.0
+        uses: crazy-max/githubaction-github-pages@v4 # آپدیت به نسخه ۴
         with:
           target_branch: output
           build_dir: dist
