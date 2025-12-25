@@ -2,23 +2,26 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+    - cron: "0 18 * * *" # هر روز ساعت ۶ عصر به وقت UTC اجرا میشه
+  workflow_dispatch: # اجازه میده دستی هم اجراش کنی
 
 jobs:
   build:
-    runs-content: write
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # این خط خیلی مهمه برای اینکه اجازه آپلود عکس رو داشته باشه
     steps:
       - uses: actions/checkout@v3
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Generated 3D Profile"
+          git commit -m "Generated 3D Profile" || exit 0 # اگه تغییری نبود ارور نده
           git push
